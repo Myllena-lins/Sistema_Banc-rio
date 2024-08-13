@@ -29,3 +29,5 @@ Deafio feito pela plataforma DIO, do Bootcamp de Python. É um sistema bancário
 ## Tecnologias Utilizadas
 - Python (módulos padrão)
 
+## Observações Finais
+A criação desse sistema foi uma solução simples e aplicável em qualquer sistema de gerenciamento de restaurantes. Qualquer sugestão para melhoria do mesmo será bem-vinda!
