@@ -1,4 +1,4 @@
-# Sistema_Bancário
+# Sistema de Transações Bancárias
 Deafio feito pela plataforma DIO, do Bootcamp de Python. É um sistema bancário simples que permite aos usuários realizar operações básicas de conta bancária, como depósito, saque, consulta de saldo e extrato. O sistema também inclui controle de limites diários de saque e um registro das transações realizadas.
 
 ## Funcionalidades
